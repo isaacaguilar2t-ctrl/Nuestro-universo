@@ -1,0 +1,56 @@
+body{
+
+margin:0;
+overflow:hidden;
+background:#000;
+font-family:Arial,sans-serif;
+
+}
+
+
+
+canvas{
+
+display:block;
+
+}
+
+
+
+#interface{
+
+position:absolute;
+top:20px;
+width:100%;
+text-align:center;
+z-index:10;
+pointer-events:none;
+color:white;
+
+}
+
+
+
+h1{
+
+font-size:45px;
+
+text-shadow:
+
+0 0 10px #ff0033,
+0 0 30px #ff0033,
+0 0 60px #ff99bb;
+
+}
+
+
+
+#contador{
+
+font-size:22px;
+
+text-shadow:
+
+0 0 10px white;
+
+}
